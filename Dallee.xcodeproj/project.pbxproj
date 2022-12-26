@@ -57,10 +57,10 @@
 			children = (
 				C4865228295429D1005AA0C1 /* DalleeApp.swift */,
 				C486522A295429D1005AA0C1 /* DalleeView.swift */,
+				C47780D8295A0584000FCD95 /* DalleeViewModel.swift */,
+				C486523629544031005AA0C1 /* APIClient.swift */,
 				C486522C295429D2005AA0C1 /* Assets.xcassets */,
 				C486522E295429D2005AA0C1 /* Preview Content */,
-				C486523629544031005AA0C1 /* APIClient.swift */,
-				C47780D8295A0584000FCD95 /* DalleeViewModel.swift */,
 			);
 			path = Dallee;
 			sourceTree = "<group>";
