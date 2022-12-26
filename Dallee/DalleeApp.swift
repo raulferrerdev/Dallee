@@ -11,7 +11,7 @@ import SwiftUI
 struct DalleeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DalleeView(viewModel: ContentViewModel())
         }
     }
 }
